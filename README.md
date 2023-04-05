@@ -24,11 +24,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kankshiportfolio10.netlify.app/](https://kankshiportfolio10.netlify.app/)
 
-- 💬 Ask me about **Artifical intelligence**
-
 - 📫 How to reach me **shahkankshi@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/16Z2Rug5tKEqau9QnpAbgM0gl7kkSkssZ/view](https://drive.google.com/file/d/16Z2Rug5tKEqau9QnpAbgM0gl7kkSkssZ/view)
 
 - ⚡ Fun fact **The world's first website is still online**
 
