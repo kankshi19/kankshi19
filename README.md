@@ -7,7 +7,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/kankshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kankshi" height="30" width="40" /></a>
 <a href="https://twitter.com/kshah_1986" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kshah_1986" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kankshi-shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kankshi-shah" height="30" width="40" /></a>
 <a href="https://instagram.com/kankshi_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kankshi_06" height="30" width="40" /></a>
@@ -28,13 +27,7 @@
 
 - ⚡ Fun fact **The world's first website is still online**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/kshah_1986" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kshah_1986" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kankshi-shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kankshi-shah" height="30" width="40" /></a>
-<a href="https://instagram.com/kankshi_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kankshi_06" height="30" width="40" /></a>
 
-</p>
 
 <h3 align="left">Hobbies & interests</h3>
 
