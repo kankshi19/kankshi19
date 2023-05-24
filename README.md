@@ -34,6 +34,7 @@
 
 - 💻 Coding: I'm passionate about coding and learning new programming languages and technologies.
 - 🎧 Music: I enjoy listening to music, particularly electronic and instrumental genres.
+- 🌱 Classical Dancing : I have completed 8 years of learning Bharatnatyam.
 
 <div align="center">
  <h3 align="left">Languages and Tools:</h3>
