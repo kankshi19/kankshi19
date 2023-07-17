@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kshah_1986" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kshah_1986" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kankshi-shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kankshi-shah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kankshi-shah-76539a258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kankshi-shah" height="30" width="40" /></a>
 <a href="https://instagram.com/kankshi_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kankshi_06" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shahkankshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shahkankshi" height="30" width="40" /></a>
 <a href="https://discord.gg/kankshi#5463" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kankshi#5463" height="30" width="40" /></a>
@@ -20,7 +20,7 @@
 <p align="left">Hi there! I am a student of CSE at SBMP. I am passionate about coding and always eager to learn new technologies.</p>
  <br></br>
 
-- 🌱 I’m currently learning **C programming , Java , Frontend Web development , Scripting language**
+- 🌱 I’m currently learning **C programming , Java , Frontend Web development , Scripting language, Data Structures**
 
 - 👨‍💻 All of my projects are available at [https://kankshiportfolio10.netlify.app/](https://kankshiportfolio10.netlify.app/)
 
