@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning **C programming , Java , Frontend Web development , Scripting language, Data Structures**
 
-- 👨‍💻 All of my projects are available at [https://kankshiportfolio10.netlify.app/](https://kankshiportfolio10.netlify.app/)
+- 👨‍💻 All of my projects are available at [[https://kankshiportfolio10.netlify.app/](https://kankshi-portfolio.netlify.app/)]
 
 - 📫 How to reach me **shahkankshi@gmail.com**
 
