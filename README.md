@@ -10,7 +10,7 @@ A student at SBMP studying CSE
 Hi there! I am a student of CSE at SBMP. I am passionate about coding and always eager to learn new technologies.
 
 - 🌱 I’m currently learning **C programming , Java , Frontend Web development , Scripting language, Data Structures**
-- 👨‍💻 All of my projects are available at [https://kankshiportfolio10.netlify.app/](https://kankshiportfolio10.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://kankshi-portfolio.netlify.app/)
 - 📫 How to reach me **shahkankshi@gmail.com**
 - ⚡ Fun fact **The world's first website is still online**
 
