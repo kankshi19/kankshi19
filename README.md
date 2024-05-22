@@ -60,7 +60,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/kankshi19/kankshi19/output/snake.svg" alt="Snake animation" />
+<img alt="snake eating my contributions" src="https://github.com/rudraparmar76/rudraparmar76/blob/master/Contribution_Snake.svg"/>
 
 ###
 
