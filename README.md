@@ -61,7 +61,7 @@
   <a href="https://www.hackerrank.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo" />
   </a>
-  <a href="https://twitter.com" target="_blank">
+  <a href="https://x.com/i/flow/login?redirect_after_login=%2Fkshah_1986" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
   </a>
 </div>
