@@ -2,8 +2,8 @@
 
 ### About Me:
 
-- 🌱 I’m currently learning **C programming , Java , Frontend Web development , Scripting language, Data Structures**
-- 👨‍💻 All of my projects are available at [Portfolio](https://kankshi-portfolio.netlify.app/)
+- 🌱 I’m currently learning **C programming , Java , Python, Frontend Web development , Scripting language, Data Structures**
+- 👨‍💻 All of my projects are available at [Portfolio](https://kankshi19.github.io/my-portfolio/)
 - 📫 How to reach me **shahkankshi@gmail.com**
 - ⚡ Fun fact **The world's first website is still online**
 
