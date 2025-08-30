@@ -1,82 +1,201 @@
-<h3 align="left">Hi 👋! My name is Kankshi Shah and I'm passionate about coding and always eager to learn new technologies</h3>
-
-### About Me:
-
-- 🌱 I’m currently learning **C programming , Java , Python, Frontend Web development , Scripting language, Data Structures**
-- 👨‍💻 All of my projects are available at [Portfolio](https://kankshi19.github.io/my-portfolio/)
-- 📫 How to reach me **shahkankshi@gmail.com**
-- ⚡ Fun fact **The world's first website is still online**
-
-### Hobbies & Interests
-- 💻 Coding: I'm passionate about coding and learning new programming languages and technologies.
-- 🎧 Music: I enjoy listening to music, particularly electronic and instrumental genres.
-- 🌱 Classical Dancing: I have completed 8 years of learning Bharatnatyam.
-###
+# Hi there! 👋 I'm Kankshi Shah
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kankshi19&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kankshi19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Hackathon+Enthusiast;AI+%26+IoT+Explorer;Full+Stack+Developer)](https://git.io/typing-svg)
+
 </div>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="300"/>
 </div>
 
-###
+---
 
-<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2FmZTdkYjM3YzFiZWJmYjBhMzk0MmE2MWYxYjBiMTg5OTgwNzkyNiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"  />
+## 🌟 About Me
 
-###
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/kankshi-shah-76539a258/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  </a>
-  <a href="https://telegram.org" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
-  </a>
-  <a href="https://www.hackerrank.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo" />
-  </a>
-  <a href="https://x.com/i/flow/login?redirect_after_login=%2Fkshah_1986" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
-  </a>
+🎓 **Currently pursuing B.Tech in Computer Engineering** at Sardar Patel Institute of Technology  
+🏆 **State-level Hackathon Winner** with multiple 24-hour coding sprints under my belt  
+💡 Passionate about **Artificial Intelligence, IoT, Web & Mobile Development**  
+🌱 **Currently mastering:** Data Structures & Algorithms, Advanced Frontend, Machine Learning  
+🎯 **2025 Goals:** Contribute to open source, build impactful AI projects, land dream internship  
+⚡ **Fun fact:** Did you know the first computer bug was an actual bug? A moth stuck in a relay! 🦋  
+
+### 🎨 When I'm Not Coding
+- 🎶 **Music Lover** - Electronic & Instrumental beats fuel my coding sessions
+- 💃 **Classical Dancer** - 8 years of Bharatnatyam (discipline meets creativity!)
+- 🧩 **Problem Solver** - Love tackling complex algorithms and design challenges
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### 🎨 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### 🔧 Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
 </div>
 
+---
 
-###
+## 🚀 Featured Projects
 
-<br clear="both">
+<div align="center">
 
-<img alt="snake eating my contributions" src="https://github.com/rudraparmar76/rudraparmar76/blob/master/Contribution_Snake.svg"/>
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🛡️ **NirBhaya** | IoT-based women's safety wearable with real-time alerts | IoT, C++, Sensors |
+| 🚗 **DriveSafe** | AI-powered driving behavior analysis for safer roads | Python, ML, Flutter |
+| 💰 **Spend Savvy** | Smart expense tracking with analytics | Flask, MySQL, JS |
+| 🌍 **Better World** | Platform connecting volunteers with social causes | Flask, Bootstrap |
+| ❓ **Quiz-A-Thon** | Interactive quiz platform with timer & lifelines | C, Data Structures |
 
-###
+</div>
 
+---
 
-### Show some 💜 by starring some of the [repositories](https://github.com/kankshi19?tab=repositories)!
+## 🏆 Achievements & Recognition
 
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/🥇_Academic_Excellence-97.33%25-gold?style=for-the-badge" />
+      <br><br>
+      <strong>Ranked 1st in Diploma</strong><br>
+      Computer Engineering<br>
+      <em>Outstanding Academic Performance</em>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/🏆_Hackathon_Champion-Winner-red?style=for-the-badge" />
+      <br><br>
+      <strong>State-Level Winner</strong><br>
+      24-Hour Coding Marathon<br>
+      <em>Innovation Under Pressure</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/👩‍💼_Leadership-President-blue?style=for-the-badge" />
+      <br><br>
+      <strong>President of Enigma '24</strong><br>
+      Event Management & Leadership<br>
+      <em>Leading Technical Community</em>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/⚡_Active_Participant-Multiple_Hackathons-purple?style=for-the-badge" />
+      <br><br>
+      <strong>Hackathon Enthusiast</strong><br>
+      Rapid Solution Development<br>
+      <em>Building Under Time Constraints</em>
+    </td>
+  </tr>
+</table>
 
+---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kankshi19&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kankshi19&theme=tokyo-night&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[🎯 2025 Goals] --> B[🤖 AI/ML Projects]
+    A --> C[🌐 Open Source Contributions]
+    A --> D[💼 Dream Internship]
+    A --> E[🏆 Advanced Certifications]
+    
+    B --> F[Computer Vision]
+    B --> G[NLP Applications]
+    C --> H[GitHub Community]
+    C --> I[Tech for Good Projects]
+```
+
+</div>
+
+---
+
+## 🎨 Coding Activity
+
+<div align="center">
+  
+```text
+🌅 Morning    ██░░░░░░░░░░░░░░░░░░░░    5%
+🌆 Daytime    ██████░░░░░░░░░░░░░░░░   25%
+🌃 Evening    ██████░░░░░░░░░░░░░░░░   24%
+🌙 Night      ███████████░░░░░░░░░░░   46%
+```
+
+</div>
+
+---
+
+## 🌐 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kankshi-shah-76539a258/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahkankshi@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/kshah_1986)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://kankshi19.github.io/my-portfolio/)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com)
+
+</div>
+
+---
+
+## 💝 Support My Journey
+
+<div align="center">
+
+If you find my projects helpful or interesting, consider giving them a ⭐️!  
+*Every star motivates me to build something even better* 🚀
+
+[![GitHub followers](https://img.shields.io/github/followers/kankshi19?style=social)](https://github.com/kankshi19)
+[![GitHub stars](https://img.shields.io/github/stars/kankshi19?style=social)](https://github.com/kankshi19)
+
+</div>
+
+<div align="center">
+  
+**💭 "Code is like humor. When you have to explain it, it's bad." – Cory House**
+
+![Profile Views](https://komarev.com/ghpvc/?username=kankshi19&color=blueviolet&style=for-the-badge)
+
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+  <em><b>Happy coding!</em>
+</div>
